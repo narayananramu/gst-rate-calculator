@@ -1,0 +1,212 @@
+@import "_variable";
+
+html,body{
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: $background;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+div.container{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+    overflow: auto;
+    @media screen and (max-width: 1100px){
+        flex-direction: column;
+    }
+    div.wrapper{
+        display: flex;
+        flex: 1;
+        flex-direction: row;
+        justify-content: center;
+        overflow: auto;
+        @media screen and (max-width: 1100px){
+            flex-direction: column-reverse;
+        }
+    }
+    div.col{
+        display: flex;
+        flex-direction: column;
+        max-width: 630px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        padding-left: 20px;
+        padding-right: 20px;
+        overflow: auto;
+        @media screen and (max-width: 1100px){
+           max-width: 100%;
+        }
+    }
+    div#summary{
+        justify-content: flex-start;
+        padding-top: 80px;
+        max-width: 450px;
+        @media screen and (max-width: 1100px){
+            font-size: 1rem;
+            padding-top: 10px;
+            max-width: 100%;
+        }
+    }
+    div#sidebar{
+        justify-content: flex-start;
+        padding-top: 60px;
+        max-width: 450px;
+        @media screen and (max-width: 1100px){
+            font-size: 1rem;
+            padding-top: 10px;
+            max-width: 100%;
+        }
+    }
+}
+h1.title{
+    font-weight: 200;
+}
+.middot{
+    color: $green;
+    font-size: 4rem;
+    box-sizing: border-box;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+}
+.listTable{
+    padding-right: 20px;
+}
+.listHead{
+    font-size: 1rem;
+    font-weight: normal !important;
+    background: $background;
+}
+.listHeadMinWidth{
+    min-width: 190px !important;
+}
+tbody.listBody{
+    background: $white;
+    font-size: 0.8rem;
+    border: #cccccc 1px solid;
+    .checkBoxCol{
+        width: 20px;
+        .check{
+            color: $blue;
+        }
+    }
+    .row_selected{
+        background: lighten($blue, 45%);
+    }
+}
+div.searchBar{
+    background: $white;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    border: #cccccc 1px solid;
+    height: 48px;
+    padding-top: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    span{
+        margin-right: 10px;
+        line-height: 30px;
+        color: $medium-gray;
+    }
+}
+.gstCalculate{
+    height: 48px;
+    width: 100%;
+    background-color: $blue !important;
+    color: $white !important;
+}
+.productLabel{
+    white-space: 'normal';
+    word-wrap: 'break-word' !important;
+}
+.note{
+    color: $medium-gray;
+    word-break: 'break-all';
+    text-align: center !important;
+    font-size: 0.6rem;
+    padding: 1rem;
+    font-weight: bold;
+}
+.summaryTable{
+    max-width: 450px;
+    @media screen and (max-width: 1100px){
+        font-size: 1rem;
+        padding-top: 10px;
+        max-width: 100%;
+    }
+}
+.detailedTable{
+    min-width: 630px;
+    width: 630px;
+    max-width: 630;
+    @media screen and (max-width: 1100px){
+        font-size: 1rem;
+        padding-top: 10px;
+        width: 100%;
+        max-width: 100%;
+    }
+}
+.rs-util-table-cell{
+    display: table-cell;
+    @media screen and (max-width: 630px) {
+        display: none;
+    }
+}
+.productLabelCol{
+    padding-left: 10px;
+}
+.productSpendCol{
+    padding-right: 10px;
+}
+.productSpendInput{
+    max-width: 120px;
+    input{
+        text-align: right;
+    }
+}
+span.increase{
+    color: $red;
+    font-size: 2rem;
+}
+span.neutral{
+    color: $medium-gray;
+    font-size: 2rem;
+}
+span.decrease{
+    color: $green;
+    font-size: 2rem;
+}
+.chartHolder{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    p{
+        font-size: 1rem;
+        color: #000000;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    canvas{
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 10px;
+    }
+}
+button.close-button{
+    position: absolute;
+    top: 50px;
+    right: 210px;
+    @media screen and (max-width: 630px) {
+        right: 50px;
+    }
+}

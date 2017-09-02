@@ -1,0 +1,1233 @@
+[{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "ALFO",
+	"productlabel": "Aluminium Foil",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "AGAR",
+	"productlabel": "Agarbatti",
+	"oldrate": "0",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "PRVE",
+	"productlabel": "Preserved Vegetables",
+	"oldrate": "0",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "BUGH",
+	"productlabel": "Butter, Ghee, Cheese",
+	"oldrate": "6",
+	"gstrate": "12"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "DRFR",
+	"productlabel": "Dry Fruits",
+	"oldrate": "6",
+	"gstrate": "12"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "JAJE",
+	"productlabel": "Jams, Jellies",
+	"oldrate": "12",
+	"gstrate": "12"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "FRME",
+	"productlabel": "Frozen Meat",
+	"oldrate": "6",
+	"gstrate": "12"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "BRPA",
+	"productlabel": "Branded Paneer",
+	"oldrate": "0",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "BRCE",
+	"productlabel": "Branded Cereals",
+	"oldrate": "0",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "COBU",
+	"productlabel": "Cocoa Butter, Oils, Chocolates",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "INAR",
+	"productlabel": "Instant, Aroma Coffee",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "COFF",
+	"productlabel": "Coffee Concentrates, Custard Powder",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "PRCO",
+	"productlabel": "Protein Concentrates, Sugar Syrups",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "RAZO",
+	"productlabel": "Razors",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "DEFL",
+	"productlabel": "Dental Floss",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "TOOT",
+	"productlabel": "Toothpaste",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "DEOD",
+	"productlabel": "Deodrants",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "AFTE",
+	"productlabel": "Aftershave",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "SHCR",
+	"productlabel": "Shaving Cream",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "CERE",
+	"productlabel": "Cereals",
+	"oldrate": "0",
+	"gstrate": "0"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "PURI",
+	"productlabel": "Puffed Rice, Papad, Bread",
+	"oldrate": "0",
+	"gstrate": "0"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "AQPO",
+	"productlabel": "Aquatic/Poultry/Cattle Feed",
+	"oldrate": "0",
+	"gstrate": "0"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "SALT",
+	"productlabel": "Salt",
+	"oldrate": "0",
+	"gstrate": "0"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "SOGR",
+	"productlabel": "Soyabean, Groundnut, Sunflower Seeds",
+	"oldrate": "6",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "INUS",
+	"productlabel": "Infant Use Preparations",
+	"oldrate": "19.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "PACO",
+	"productlabel": "Pasta, Corn Flakes, Cakes",
+	"oldrate": "19.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "COTE",
+	"productlabel": "Coffee, Tea",
+	"oldrate": "6",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "FZVE",
+	"productlabel": "Frozen Vegetables",
+	"oldrate": "6",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "COMI",
+	"productlabel": "Condensed Milk",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "TOPA",
+	"productlabel": "Toilet Paper",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "HOWA",
+	"productlabel": "Hot Water Bottles",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "PEJE",
+	"productlabel": "Petroleum Jelly, Paraffin Wax",
+	"oldrate": "20",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "PESH",
+	"productlabel": "Pencil Sharpeners, Knives",
+	"oldrate": "18.5",
+	"gstrate": "12"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "MEFI",
+	"productlabel": "Meats & Fish Preparations",
+	"oldrate": "19.5",
+	"gstrate": "12"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "SWME",
+	"productlabel": "Sweetmeats",
+	"oldrate": "12",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "BAMI",
+	"productlabel": "Bakery Mixes, Doughs, Pizza Bread",
+	"oldrate": "12",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "VEFA",
+	"productlabel": "Vegetable Fats & Oils",
+	"oldrate": "12",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "TECO",
+	"productlabel": "Tea Concentrates, Soups",
+	"oldrate": "12",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "ICCR",
+	"productlabel": "Ice cream, Instant Food Mixes, Sharbet",
+	"oldrate": "26",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "RESU",
+	"productlabel": "Refined Sugar",
+	"oldrate": "26",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "SOAP",
+	"productlabel": "Soap",
+	"oldrate": "26",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "DETO",
+	"productlabel": "Dentrifices, Toothpaste",
+	"oldrate": "26",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "HAOI",
+	"productlabel": "Hair Oil",
+	"oldrate": "26",
+	"gstrate": "18"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "HASA",
+	"productlabel": "Handmade Safety Matches",
+	"oldrate": "18.5",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "BROO",
+	"productlabel": "Broomsticks",
+	"oldrate": "18",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "CAND",
+	"productlabel": "Candles",
+	"oldrate": "26",
+	"gstrate": "12"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "TOPO",
+	"productlabel": "Tooth Powder",
+	"oldrate": "26",
+	"gstrate": "12"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "LELI",
+	"productlabel": "LED Lights",
+	"oldrate": "26",
+	"gstrate": "12"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "MIBE",
+	"productlabel": "Milk Beverages",
+	"oldrate": "26",
+	"gstrate": "12"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "RENA",
+	"productlabel": "Readytoeat Namkeen/Bhujiya",
+	"oldrate": "26",
+	"gstrate": "12"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "BESU",
+	"productlabel": "Beet Sugar, Cane Sugar",
+	"oldrate": "26",
+	"gstrate": "5"
+},
+{
+	"categorycode": "COG",
+	"categorylabel": "Consumer Goods",
+	"productcode": "KESA",
+	"productlabel": "Ketchup, Sauces",
+	"oldrate": "12",
+	"gstrate": "12"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "LEBA",
+	"productlabel": "Leather Bags",
+	"oldrate": "6",
+	"gstrate": "28"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "CEPH",
+	"productlabel": "Cell Phones",
+	"oldrate": "6",
+	"gstrate": "18"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "YACH",
+	"productlabel": "Yachts",
+	"oldrate": "18.5",
+	"gstrate": "28"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "AICO",
+	"productlabel": "Air Conditioners",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "REFR",
+	"productlabel": "Refrigerators",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "STWA",
+	"productlabel": "Storage Water Heaters",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "DIWA",
+	"productlabel": "Dish Washing Machines",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "PHFA",
+	"productlabel": "Photocopier, Fax Machines",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "WRIS",
+	"productlabel": "Wristwatches",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "FURN",
+	"productlabel": "Furniture",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "VIGA",
+	"productlabel": "Video Game Consoles",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "EXEQ",
+	"productlabel": "Exercise Equipment",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "SPGO",
+	"productlabel": "Sports Goods",
+	"oldrate": "18.5",
+	"gstrate": "12"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "BICY",
+	"productlabel": "Bicycles",
+	"oldrate": "18.5",
+	"gstrate": "12"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "SPLE",
+	"productlabel": "Spectacle Lens",
+	"oldrate": "18.5",
+	"gstrate": "12"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "WHPR",
+	"productlabel": "Whey Proteins & Fitness Supplements",
+	"oldrate": "26",
+	"gstrate": "18"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "HAOT",
+	"productlabel": "Hats and Other Headgears",
+	"oldrate": "26",
+	"gstrate": "18"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "STUT",
+	"productlabel": "Steel Utensils",
+	"oldrate": "18.5",
+	"gstrate": "5"
+},
+{
+	"categorycode": "LFS",
+	"categorylabel": "Lifestyle and Home",
+	"productcode": "PRIN",
+	"productlabel": "Printers",
+	"oldrate": "26",
+	"gstrate": "18"
+},
+{
+	"categorycode": "BTY",
+	"categorylabel": "Beauty and Personal Care",
+	"productcode": "MAPE",
+	"productlabel": "Manicure, Pedicure Sets",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "BTY",
+	"categorylabel": "Beauty and Personal Care",
+	"productcode": "PERF",
+	"productlabel": "Perfumes",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "BTY",
+	"categorylabel": "Beauty and Personal Care",
+	"productcode": "BEMA",
+	"productlabel": "Beauty or Makeup Preparations",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "BTY",
+	"categorylabel": "Beauty and Personal Care",
+	"productcode": "SKIT",
+	"productlabel": "Skincare Items Including Sunscreen",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "BTY",
+	"categorylabel": "Beauty and Personal Care",
+	"productcode": "SHHA",
+	"productlabel": "Shampoos, Hair Cream, Hair Dyes",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "BTY",
+	"categorylabel": "Beauty and Personal Care",
+	"productcode": "WIFA",
+	"productlabel": "Wigs, False Beards, Eyelashes",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "KTC",
+	"categorylabel": "Kitchenware and Appliances",
+	"productcode": "STOV",
+	"productlabel": "Stoves (except Kerosene, LPG)",
+	"oldrate": "18.5",
+	"gstrate": "28"
+},
+{
+	"categorycode": "KTC",
+	"categorylabel": "Kitchenware and Appliances",
+	"productcode": "ELHO",
+	"productlabel": "Electrical Hot Plates",
+	"oldrate": "18.5",
+	"gstrate": "28"
+},
+{
+	"categorycode": "KTC",
+	"categorylabel": "Kitchenware and Appliances",
+	"productcode": "ALUT",
+	"productlabel": "Aluminium Utensils",
+	"oldrate": "18.5",
+	"gstrate": "12"
+},
+{
+	"categorycode": "KTC",
+	"categorylabel": "Kitchenware and Appliances",
+	"productcode": "LPDO",
+	"productlabel": "LPG for Domestic Supply",
+	"oldrate": "17",
+	"gstrate": "5"
+},
+{
+	"categorycode": "KTC",
+	"categorylabel": "Kitchenware and Appliances",
+	"productcode": "HOCO",
+	"productlabel": "Household Copper Articles",
+	"oldrate": "18.5",
+	"gstrate": "5"
+},
+{
+	"categorycode": "KTC",
+	"categorylabel": "Kitchenware and Appliances",
+	"productcode": "COUT",
+	"productlabel": "Copper Utensils",
+	"oldrate": "18.5",
+	"gstrate": "5"
+},
+{
+	"categorycode": "KTC",
+	"categorylabel": "Kitchenware and Appliances",
+	"productcode": "IRST",
+	"productlabel": "Iron/Steel/Household Articles",
+	"oldrate": "18.5",
+	"gstrate": "5"
+},
+{
+	"categorycode": "KTC",
+	"categorylabel": "Kitchenware and Appliances",
+	"productcode": "IRKE",
+	"productlabel": "Iron/Steel/Kerosene Stoves",
+	"oldrate": "18.5",
+	"gstrate": "5"
+},
+{
+	"categorycode": "CNS",
+	"categorylabel": "Construction",
+	"productcode": "CEME",
+	"productlabel": "Cement",
+	"oldrate": "30",
+	"gstrate": "28"
+},
+{
+	"categorycode": "CNS",
+	"categorylabel": "Construction",
+	"productcode": "WALL",
+	"productlabel": "Wallpaper",
+	"oldrate": "18.5",
+	"gstrate": "28"
+},
+{
+	"categorycode": "CNS",
+	"categorylabel": "Construction",
+	"productcode": "PAVA",
+	"productlabel": "Paints and Varnishes",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "CNS",
+	"categorylabel": "Construction",
+	"productcode": "PUWA",
+	"productlabel": "Putty, Wall Fillings",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "CNS",
+	"categorylabel": "Construction",
+	"productcode": "PLAS",
+	"productlabel": "Plaster",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "CNS",
+	"categorylabel": "Construction",
+	"productcode": "CETI",
+	"productlabel": "Ceramic Tiles",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "CNS",
+	"categorylabel": "Construction",
+	"productcode": "TEGL",
+	"productlabel": "Tempered Glass",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "CNS",
+	"categorylabel": "Construction",
+	"productcode": "SALI",
+	"productlabel": "Sand Lime Bricks",
+	"oldrate": "6",
+	"gstrate": "5"
+},
+{
+	"categorycode": "CNS",
+	"categorylabel": "Construction",
+	"productcode": "FLAS",
+	"productlabel": "Fly Ash Bricks",
+	"oldrate": "6",
+	"gstrate": "12"
+},
+{
+	"categorycode": "DRY",
+	"categorylabel": "Dairy and Farm Products",
+	"productcode": "FRMI",
+	"productlabel": "Fresh Milk",
+	"oldrate": "0",
+	"gstrate": "0"
+},
+{
+	"categorycode": "DRY",
+	"categorylabel": "Dairy and Farm Products",
+	"productcode": "FRVE",
+	"productlabel": "Fresh Vegetables, Roots & Tubers",
+	"oldrate": "0",
+	"gstrate": "0"
+},
+{
+	"categorycode": "DRY",
+	"categorylabel": "Dairy and Farm Products",
+	"productcode": "FRFR",
+	"productlabel": "Fresh Fruits",
+	"oldrate": "0",
+	"gstrate": "0"
+},
+{
+	"categorycode": "DRY",
+	"categorylabel": "Dairy and Farm Products",
+	"productcode": "FRJU",
+	"productlabel": "Fruits & Vegetable Juices",
+	"oldrate": "12",
+	"gstrate": "12"
+},
+{
+	"categorycode": "SER",
+	"categorylabel": "Services",
+	"productcode": "TELE",
+	"productlabel": "Telecom",
+	"oldrate": "15",
+	"gstrate": "18"
+},
+{
+	"categorycode": "SER",
+	"categorylabel": "Services",
+	"productcode": "WOCO",
+	"productlabel": "Work contracts",
+	"oldrate": "15",
+	"gstrate": "12"
+},
+{
+	"categorycode": "SER",
+	"categorylabel": "Services",
+	"productcode": "NOAC",
+	"productlabel": "Non AC/alcoholserving restaurants",
+	"oldrate": "14",
+	"gstrate": "12"
+},
+{
+	"categorycode": "SER",
+	"categorylabel": "Services",
+	"productcode": "ACAL",
+	"productlabel": "AC, alcoholserving restaurants",
+	"oldrate": "22",
+	"gstrate": "18"
+},
+{
+	"categorycode": "SER",
+	"categorylabel": "Services",
+	"productcode": "FIST",
+	"productlabel": "Fivestar restaurants",
+	"oldrate": "18",
+	"gstrate": "28"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "RUTY",
+	"productlabel": "Rubber tyres",
+	"oldrate": "18.5",
+	"gstrate": "28"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "STEA",
+	"productlabel": "Steam",
+	"oldrate": "0",
+	"gstrate": "12"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "CHDR",
+	"productlabel": "Children's drawing books",
+	"oldrate": "0",
+	"gstrate": "12"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "PLPR",
+	"productlabel": "Plastic products",
+	"oldrate": "18.5",
+	"gstrate": "28"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "CAST",
+	"productlabel": "Calcerous stone",
+	"oldrate": "18.5",
+	"gstrate": "28"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "ARST",
+	"productlabel": "Artists', students' or signboard colours",
+	"oldrate": "18.5",
+	"gstrate": "28"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "NUFU",
+	"productlabel": "Nuclear fuel",
+	"oldrate": "0",
+	"gstrate": "5"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "HEWA",
+	"productlabel": "Heavy water and other nuclear fuels",
+	"oldrate": "0",
+	"gstrate": "5"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "COAI",
+	"productlabel": "Compressed air",
+	"oldrate": "0",
+	"gstrate": "5"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "SOWA",
+	"productlabel": "Solar water heater",
+	"oldrate": "0",
+	"gstrate": "5"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "REEN",
+	"productlabel": "Renewable enery devices",
+	"oldrate": "0",
+	"gstrate": "5"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "BRTY",
+	"productlabel": "Braille typewriters",
+	"oldrate": "13.5",
+	"gstrate": "5"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "PIAN",
+	"productlabel": "Pianos",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "REVO",
+	"productlabel": "Revolvers",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "ARFL",
+	"productlabel": "Artificial Flowers",
+	"oldrate": "26",
+	"gstrate": "28"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "BANG",
+	"productlabel": "Bangles (Nonprecious Metals)",
+	"oldrate": "0",
+	"gstrate": "0"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "FOPE",
+	"productlabel": "Fountain pen ink, Ball pen ink",
+	"oldrate": "12",
+	"gstrate": "12"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "WOPU",
+	"productlabel": "Wood pulp",
+	"oldrate": "12",
+	"gstrate": "12"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "PRBO",
+	"productlabel": "Printed books",
+	"oldrate": "0",
+	"gstrate": "0"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "CALE",
+	"productlabel": "Calendars",
+	"oldrate": "12",
+	"gstrate": "12"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "ANHU",
+	"productlabel": "Animal or human blood vaccines",
+	"oldrate": "6",
+	"gstrate": "5"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "PODR",
+	"productlabel": "Power driven water pumps",
+	"oldrate": "12.5",
+	"gstrate": "12"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "PALO",
+	"productlabel": "Padlock, locks",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "HELM",
+	"productlabel": "Helmets",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "FERT",
+	"productlabel": "Fertilizers",
+	"oldrate": "18.5",
+	"gstrate": "12"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "TRAC",
+	"productlabel": "Tractors",
+	"oldrate": "18.5",
+	"gstrate": "12"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "SEKN",
+	"productlabel": "Sewing/knitting needles",
+	"oldrate": "18.5",
+	"gstrate": "12"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "AGIM",
+	"productlabel": "Agricultural implements",
+	"oldrate": "12.5",
+	"gstrate": "0"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "FIRE",
+	"productlabel": "Firewood",
+	"oldrate": "12.5",
+	"gstrate": "0"
+},
+{
+	"categorycode": "OTH",
+	"categorylabel": "Others",
+	"productcode": "GEBO",
+	"productlabel": "Geometry boxes",
+	"oldrate": "18.5",
+	"gstrate": "5"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "PEAT",
+	"productlabel": "Peat",
+	"oldrate": "19.5",
+	"gstrate": "5"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "ALOR",
+	"productlabel": "All ores and concentrates",
+	"oldrate": "18.5",
+	"gstrate": "5"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "KEPD",
+	"productlabel": "Kerosene PDS",
+	"oldrate": "17",
+	"gstrate": "5"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "PECO",
+	"productlabel": "Petroleum coke, petroleum bitumen",
+	"oldrate": "27.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "TARR",
+	"productlabel": "Tar",
+	"oldrate": "12",
+	"gstrate": "5"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "COAL",
+	"productlabel": "Coal",
+	"oldrate": "12",
+	"gstrate": "5"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "LIGN",
+	"productlabel": "Lignite",
+	"oldrate": "12",
+	"gstrate": "5"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "COBA",
+	"productlabel": "Copper bars, rods, wires",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "COSC",
+	"productlabel": "Copper screws, nuts, bolts",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "NIBA",
+	"productlabel": "Nickel bars, rods, wires",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "NISC",
+	"productlabel": "Nickel screws, nuts, bolts",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "NITU",
+	"productlabel": "Nickel tubes, pipes, netting",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "ALIN",
+	"productlabel": "Aluminium ingots, rods, wires",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "LEPL",
+	"productlabel": "Lead plates, sheets, strips",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "ZIGO",
+	"productlabel": "Zinc goods",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "MET",
+	"categorylabel": "Metals and minerals",
+	"productcode": "TIBA",
+	"productlabel": "Tin bars, rods",
+	"oldrate": "18.5",
+	"gstrate": "18"
+},
+{
+	"categorycode": "MED",
+	"categorylabel": "Medical supplies",
+	"productcode": "HUBL",
+	"productlabel": "Human blood",
+	"oldrate": "0",
+	"gstrate": "0"
+},
+{
+	"categorycode": "MED",
+	"categorylabel": "Medical supplies",
+	"productcode": "COCO",
+	"productlabel": "Condoms/Contraceptives",
+	"oldrate": "0",
+	"gstrate": "0"
+},
+{
+	"categorycode": "MED",
+	"categorylabel": "Medical supplies",
+	"productcode": "GLOT",
+	"productlabel": "Glands and other organs",
+	"oldrate": "12",
+	"gstrate": "12"
+},
+{
+	"categorycode": "MED",
+	"categorylabel": "Medical supplies",
+	"productcode": "AYUN",
+	"productlabel": "Ayurvaedic, unani medicaments",
+	"oldrate": "12",
+	"gstrate": "12"
+},
+{
+	"categorycode": "MED",
+	"categorylabel": "Medical supplies",
+	"productcode": "HOSI",
+	"productlabel": "Homoeopathic, siddha medicaments",
+	"oldrate": "12",
+	"gstrate": "12"
+}
+]

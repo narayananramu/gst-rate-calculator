@@ -1,0 +1,42 @@
+[
+    {
+      "categorycode": "BTY",
+      "categorylabel": "Beauty and Personal Care"
+    },
+    {
+      "categorycode": "COG",
+      "categorylabel": "Consumer Goods"
+    },
+    {
+      "categorycode": "CNS",
+      "categorylabel": "Construction"
+    },
+    {
+      "categorycode": "DRY",
+      "categorylabel": "Dairy and Farm Products"
+    },
+    {
+      "categorycode": "KTC",
+      "categorylabel": "Kitchenware and Appliances"
+    },
+    {
+      "categorycode": "LFS",
+      "categorylabel": "Lifestyle and Home"
+    },
+    {
+      "categorycode": "MED",
+      "categorylabel": "Medical supplies"
+    },
+    {
+      "categorycode": "MET",
+      "categorylabel": "Metals and minerals"
+    },
+    {
+      "categorycode": "SER",
+      "categorylabel": "Services"
+    },
+    {
+      "categorycode": "OTH",
+      "categorylabel": "Others"
+    }
+  ]
